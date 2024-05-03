@@ -4,22 +4,22 @@ This is a simple Node.js registration project that uses MySQL for data storage. 
 Prerequisites
 Before running this project, make sure you have the following installed:
 
-Node.js
-MySQL
-Body-Parser
-Path
-Express-session
+Node.js,
+MySQL,
+Body-Parser,
+Path,
+Express-session,
 Nodemon
 
 Install dependencies:
-cd NodeRegistration_UsingMysql
-npm init -y
-npm i express
-npm i nodemon
-npm i mysql
-npm i body-parser
-npm i express-session
-npm i path
+cd NodeRegistration_UsingMysql,
+npm init -y,
+npm i express,
+npm i nodemon,
+npm i mysql,
+npm i body-parser,
+npm i express-session,
+npm i path,
 
 Start the server:
 npm start
